@@ -1,21 +1,31 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: 常州乐活旅游投资有限公司
   desc:
-    detail: I worked at Company A ...
+    detail: 公司专注互联网在线旅游，产品包含旅游APP，酒店比价APP，网站。工作负责后端开发，接口设计，日常服务器维护。
   date:
-    detail: Apr. 2016
+    detail: 2018.02
   job:
-    detail: CTO
-  icon: fa-plus-square
+    detail: PHP开发
+  icon: fa-plane
 
 - name:
-    detail: Company B
+    detail: 常州曼特智驾网络科技有限公司
   desc:
-    detail: I worked at Company B ...
+    detail: 公司专注驾培领域线上线下结合，产品包含APP，在线教育网站，VR模拟学习设备。工作负责后端开发，接口设计，日常服务器维护。
   date:
-    detail: Jun. 2015
+    detail: 2017.02
   job:
-    detail: Full Stack Developer
-  icon: fa-plus-square
+    detail: PHP开发
+  icon: fa-cloud
+
+- name:
+    detail: 常州宝丰信息技术有限公司
+  desc:
+    detail: 公司外包APP项目，工作包含数据库设计，Rest API接口，管理后台开发，项目线上部署。
+  date:
+    detail: 2016.01
+  job:
+    detail: PHP开发
+  icon: fa-book

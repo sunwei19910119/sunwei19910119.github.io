@@ -1,19 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: larabbs
+  gh_user: sunwei19910119
+  repo: larabbs
+  img: /static/assets/img/landing/laravel.png
+  desc: laravel5.5开发博客站
 
-- name: Python
-  gh_user: python
-  repo: cpython
+- name: larabbs-weapp
+  gh_user: sunwei19910119
+  repo: larabbs-weapp
+  img: /static/assets/img/landing/laravel.png
+  desc: wepy构建微信小程序
+
+- name: DjangoShop
+  gh_user: sunwei19910119
+  repo: DjangoShop
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: 基于python3.6，django，vue，开发的电商网站
