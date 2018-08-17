@@ -4,4 +4,4 @@
 
 ## or
 
-## https://blog.sunwei1991.cn
+## http://blog.sunwei1991.cn
