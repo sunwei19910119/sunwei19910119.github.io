@@ -4,7 +4,7 @@ title:  "NovelSpider小说爬虫简易教程"
 date:   2018-08-20
 desc: "使用Scrapy爬取，知轩藏书，全本小说"
 keywords: "scrapy,python,novel"
-categories: [Others]
+categories: [Python]
 tags: [python,Scrapy]
 icon: icon-html
 ---
