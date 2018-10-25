@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: laraval-admin
+  gh_user: sunwei19910119
+  repo: laravel-admin
+  img: /static/assets/img/landing/laravel.png
+  desc: laravel5.5+adminLte搭建管理后台
+
 - name: larabbs
   gh_user: sunwei19910119
   repo: larabbs
