@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: PHP, Python, Linux/Shell, MYSQL, HTML/CSS,jQuery, MongoDb, Sleeping
-percentage: 90, 80, 65, 80,70, 70, 70, 100
+aspects: PHP, Java, Python, Linux/Shell, MYSQL, MongoDb,ElasticSearch
+percentage: 90, 80, 80, 65, 80, 70, 70
