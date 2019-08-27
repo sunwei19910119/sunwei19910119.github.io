@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: leyou
+  gh_user: sunwei19910119
+  repo: leyou
+  img: /static/assets/img/landing/leyou.png
+  desc: SpringCloud微服务电商项目
+
+
 - name: laraval-admin
   gh_user: sunwei19910119
   repo: laravel-admin
